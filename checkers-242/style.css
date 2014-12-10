@@ -12,3 +12,7 @@ body {
     font-family: tahoma;
     color: #429205;
 }
+
+.entry-content {
+    color: pink;
+}
