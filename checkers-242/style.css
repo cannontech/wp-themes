@@ -1,7 +1,11 @@
 /*
-Theme Name: checkers 242
-Template: 	gsn-base
-GitHub Theme URI: https://github.com/cannontech/wp-themes/checkers-242
+Theme Name:         checkers 242
+Template: 	        gsn-base
+Version:            0.0.1
+Description:        Child theme of gsn-base
+Author:             Eric Schmit
+GitHub Theme URI:   https://github.com/cannontech/wp-themes/checkers-242
+GitHub Branch:      master
 */
 
 @import url("../gsn-base/style.css");
